@@ -3,7 +3,7 @@ Copyright Sota Kaneko, shared with the [CC 4.0 BY-NC-SA 4.0 License](https://cre
 
 ## What are Tardigrades?
 
-Tardigrades aka Water Bears or "Moss Piglets" (according to wikipedia though I've never heard it my self) are 8 legged **animals** with their own Phylum called `Tardigrada` which translates to "slow steppers". These animals are notable because they are extermely resellient to extreme conditions. 
+Tardigrades aka Water Bears or "Moss Piglets" (according to wikipedia though I've never heard it myself) are 8 legged **animals** with their own Phylum called `Tardigrada` which translates to "slow steppers". These animals are notable because they are extermely resellient to extreme conditions. 
 
 More specifically they can withstand:
 
